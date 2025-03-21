@@ -1,0 +1,5 @@
+print("Starry\nMashy")
+print("Starry\tMashy")
+print("Starry \"Mashy\"")
+print('Starry "Mashy"')
+print("Starry\\Mashy")
