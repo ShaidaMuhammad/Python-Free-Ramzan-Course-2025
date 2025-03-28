@@ -148,6 +148,8 @@ Attendance/
 
 # Ignore YouTube vidoe thumbnails
 *.jpg
+*.jpeg
+!Code/20. Live Project/app screenshot.jpg
 
 # Students registration data
 *.xlsx
