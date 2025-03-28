@@ -56,7 +56,7 @@ Watch all lectures on YouTube:
 20. **Lecture 20**: Final Live Project Implementation
 
 ## 📂 Repository Contents
-- Presentation slides (PDF/PPT)
+- Presentation slides (PDF)
 - Code examples for each lecture
 - Weekly assignments
 - Quiz questions
