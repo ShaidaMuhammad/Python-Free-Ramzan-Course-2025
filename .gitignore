@@ -148,3 +148,6 @@ Attendance/
 
 # Ignore YouTube vidoe thumbnails
 *.jpg
+
+# Students registration data
+Students Registration Data.xlsx
